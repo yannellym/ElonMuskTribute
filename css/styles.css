@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  background-color: #C4E0D9;
+  margin: 3%;
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+a {
+  color: blue;
+}
+
+p {
+  font-size: 20px;
+}
+
+image {
+  max-width: 100%;
+  display: in-line;
+  height: auto;
+  margin: auto;
+}
+
+#main {
+  margin: 10px 5px;
+  padding: 5px;
+  background: #ffffff;
+}
+
+#img-caption {
+  margin: 2% 5%;
+}
+
+#headline {
+  text-align: center;
+}
+#tribute-info{
+  line-height: 2;
+  margin: 3% 25%;
+  text-align: left;
+}
